@@ -1,0 +1,55 @@
+	1. WAN
+		a. Wide area network
+	2. LAN
+		a. Local Area Network
+	3. How to conect a Lan to a WAN
+	A. Wide Area Networks
+		a. Connect systems over a large geographic network
+		b. Allow for easier communication
+	B. Routers
+		a. Device that connects a LAN to a WAN or other networks and exchanges packets of data between them by examining network addresses to determine where to send each packet
+		b. Border Routers
+			i. Sits between WAN (internet) and an internal network
+				1) Subject to direct attack from outside sources
+		c. Internal Routers
+			i. Departmental router
+			ii. Can keep internal networks separate for increased speeds
+	C. Local Area Networks
+		a. Provide network connectivity for computers that are in the same area
+		b. Typically connected with other devices such as:
+			i. Hubs
+			ii. Switches
+			iii. 3 computers to one switch, switch to router, router to internet
+		c. Local computers are all connected
+			i. Provides a security risk
+		d. Ethernet Networking
+			i. Ethernet runs to each device
+			ii. Ethernet runs back to a switch
+			iii. Switch controls a portion of the LAN dedicated to each device
+		e. Switches
+			i. Connects several systems to the network
+			ii. Switches know the MAC address of each device 
+				1) Can intelligently filter and sent packets to destination port 
+		f. Virtual LANs
+			i. Can be branched to only certain areas of the LAN
+			ii. Departmentalized
+				1) HR
+				2) Etc..
+	D. WLAN
+		a. Same as LAN but wireless protocols
+	E. PAN
+		a. Personal Area Network
+		b. Hotspots / Bluetooth
+	F. MAN
+		a. Metropolitan area network
+		b. Cities
+		c. Collection of LANs to a central point
+	G. CAN
+		a. Campus area network
+		b. Multi facility, but not big enough for a metropolitan
+	H. SAN 
+		a. Storage area networks
+		b. Specialized high speed network
+		c. Connect to hard drives
+
+		

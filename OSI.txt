@@ -1,0 +1,109 @@
+	1. 7 Layers:
+		a. Layer 1 - Physical
+			i. Transports traffice across the network
+			ii. Cables
+			iii. Adapters
+			iv. Fiber
+			v. Signal itself
+		b. Layer 2 - Data Link
+			i. How data is packaged and sent over a network
+			ii. Access to media = frame
+			iii. MAC Address 
+				1) Media Access Control
+				2) Each hardware device has its own MAC
+			iv. Foundation of communication
+			v. EUI's
+			vi. The switch
+			vii. Transmits info on the same LAN
+			viii. Bridge, modem, switch
+		c. Layer 3 - Network Layer
+			i. Routing layer
+			ii. IP Addresses
+			iii. Fragmenting information through the network
+			iv. Routers
+			v. Packets routed based on destination IP addresses
+			vi. Logical networking
+		d. Layer 4 - Transport 
+			i. Responsible for data transportation
+				1) Reliability 
+				2) Tracks messages
+			ii. Handles transportation issues
+			iii. Browser example
+				1) Internet browser screen not all sent in one packet
+					a) Broken up into individual packets then put together like a puzzle on the screen
+			iv. Breaks data into packets and transmits them
+			v. TCP 
+				1) Transmission control protocol at this layer
+			vi. UDP
+				1) User datagram protocol
+			vii. Transfers data between application and network layers
+			viii. Tears down and reassembles data
+		e. Layer 5 - Session
+			i. Many applications handle their own process of starting and ending a communication
+			ii. Control and Tunneling Protocols
+			iii. Connection establishment
+			iv. Authentication
+			v. Establishes session with remote system
+			vi. Maintains connections
+		f. Layer 6 - Presentation
+			i. Formats the data 
+			ii. Character encoding
+			iii. Application encryption
+			iv. Often combined with application layer
+		g. Layer 7 - Application
+			i. See the physical application or download
+			ii. Users Eyes
+			iii. Sends or receives network request
+			iv. End of data transfer
+			v. Contains Telnet
+			vi. All programs on computer that interact with the network
+			
+
+
+OSI Model Example
+
+Layer 1 Physical - Electrical Signal
+Layer 2 Data Link - Ethernet
+Layer 3 Network - IP encapsulation
+Layer 4 Transport - TCP encapsulation
+Layer 5 Session - Link presentation to transport
+Layer 6 Presentation - SSL encryption
+Layer 7 Application - Web address
+
+OSI Model Protocols
+
+	1. Layer 7 A
+		a. HTTP
+		b. FTP
+		c. SMIP
+		d. IMAP
+		e. SMTP
+		f. DNS
+		g. DHCP
+	2. Layer 6 P
+		a. SSL
+		b. ASCII
+		c. JPEG
+	3. Layer 5 S
+		a. NFS
+		b. SQL
+		c. PPTP
+		d. Tunneling
+	4. Layer 4 Transport
+		a. Segments
+		b. TCP
+			i. Segments for no missing packets
+		c. UDP
+			i. Datagrams for streaming
+	5. Layer 3 N
+		a. Packets
+		b. IP Addresses
+	6. Layer 2 D
+		a. MAC addresses
+	7. Layer 1 P
+		a. Cables
+	
+		
+		
+			
+	

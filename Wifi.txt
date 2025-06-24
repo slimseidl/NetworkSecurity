@@ -1,0 +1,40 @@
+	1. 802.11 - WIFI
+	2. 802.11a 
+		a. Higher speed
+		b. 54mbps
+		c. 5ghz
+		d. Higher frequency doesn't travel as far as low frequency
+		e. Doesn't penetrate walls as well. 
+		f. Wifi extender
+			i. Good for security
+			ii. Good for singular device
+	3. 802.11b
+		a. Unregulated 2.4 Ghz frequency
+		b. 11MBPs
+		c. Has interference from devices using same range
+			i. Microwaves
+				1) Youtube TV gets glitchy when using microwave
+			ii. Appliances
+		d. Lower Cost
+		e. Slowest Speed 
+		f. Higher Range
+	4. 802.11g
+		a. Combines a and b
+		b. 2.4 Ghz 
+		c. 54mbps
+		d. Long range
+		e. Fast
+	5. 802.11N
+		a. More bandwidth
+		b. Multiple signals
+		c. Up to 300 mbps
+		d. Longer range
+	6. 802.11ac
+		a. Newest wifi
+		b. Dual band
+			i. Simulatenous 2.4 and 5 GHz
+		c. 1300 MBPs on 5 GHz
+		d. 450 Mbps on 2.4 GHz
+	
+		
+		

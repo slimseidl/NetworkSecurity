@@ -1,0 +1,34 @@
+	1. Linux Commands
+	2. IP a
+		a. IP address
+		b. Display interfaces
+			i. Local loopback
+		c. Display IPv4 address
+		d. Display IPv6 address
+		e. Ens33
+			i. MAC address of host
+			ii. IPv4 addressing
+			iii. Subnet mask
+	3. cat/etc/neplan
+		a. Configure IP 
+	4. Ping
+		a. Determine if connectivity
+		b. Press Ctrl + C to stop ping command
+		c. Determine speed In ms
+	5. Traceroute
+		a. Name or IP address
+		b. ICMP protocol
+	6. Nslookup
+		a. Test DNS connectivity
+	7. Set type=mx
+		a. Mail address names
+	8. Exit
+	9. Dig 
+		a. Test DNS against a host
+		b. Details about connectivity to name of website
+		c. Server and port number
+		d. Date and timestamp
+	10. IFConfig
+		a. Network interfaces
+		b. Activate or deactivate configs
+	

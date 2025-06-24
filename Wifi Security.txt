@@ -1,0 +1,80 @@
+	1. Protection of the service set identifier (SSID)
+	2. WLAN issues groups:
+		a. Authentication and access control
+			i. Authentication should allow sender and reciving signals to verify each other
+			ii. Access points use authentication and access control to grant access rights to requesting stations
+		b. Encryption and Data Privacy
+			i. Transforms plain data into cyphertext (symbols)
+	3. Open system authentication (OSA)
+		a. No security
+		b. Open for all
+		c. Uses a key to establish connection
+			i. Sending station sends key for receiving station to accept or deny
+			ii. Generates a new key to maintain connection
+	4. Shared Key authentication
+		a. Pairing with randomly generated numbers
+	5. Extensible Authentication Methods
+		a. EAP
+		b. Includes
+			i. Passwords
+			ii. PKI's (public keys)
+			iii. MFA
+		c. Three primary areas:
+			i. Authentication framework
+				1) Login processing
+			ii. Authentication algorithm
+				1) WPA/WEP Protocols
+			iii. Data frame encryption
+	6. WEP
+		a. Older 
+		b. Not used much anymore
+	7. WPA2
+		a. Older
+		b. Preshared Key (PSK)
+		c. Uses AES
+			i. US Gov standard for encryption
+		d. Designed for Home use
+		e. Network Username (SSID) and password
+			i. Can have different for different frequencies
+	8. WPA2 Enterprise
+		a. Centralized authentication server at router
+		b. Corporate / Offices
+		c. Can use a PKI as well
+	9. WPA3
+		a. Requires new WPA3 hardware
+		b. Necryption unique for each user
+		c. Uses SAE (simultaneous authentication)
+		d. Wifi Easy Connect
+			i. Connect devices to wifi
+			ii. QR Code
+			iii. NCF Tag
+			iv. Smart home devices
+	10. WPA3 Enterprise
+		a. Similar to WPA2
+		b. Uses AES
+		
+	11. WLAN Modes
+		a. Ad Hoc
+			i. Provides WLAN nodes with the ability to connect to each other in a way similar to peer to peer ops on a wired network
+			ii. WMN
+				1) Wireless mesh network
+				2) Each node connects to every other node in the WLAN
+				3) Each node is IBSS
+					a) Independent basic service set
+						i) Provides access to a wired network, modem connection or other services depending in permissions
+		b. Infrastructure Mode
+			i. Most common for larger WLANs
+			ii. Requires at least one base station
+			iii. Usually connected to a WAN network / gateway
+			iv. BSS topology
+				1) Basic service set
+					a) Wireless connects to access point
+						i) Acces point to switch or router
+							One. Router to WAN
+		c. ESS
+			i. Extended service set
+				1) Larger networks that provide coverage to a large area
+			ii. Multiple wireless access points
+			iii. Multiple routers
+			iv. All go to a WAN
+		

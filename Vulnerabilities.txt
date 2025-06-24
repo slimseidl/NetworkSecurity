@@ -1,0 +1,32 @@
+Vulnerability Examples
+	1. Message compromise
+		a. Emails hacked
+		b. Fraud transfers
+	2. Masquerade
+		a. Fake ID to gain access to computer 
+	3. Message modification
+		a. Send an email, recipient sees somethings else
+		b. MITM
+	4. DoS
+		a. Denial of services
+		b. Thousands of requests at one time
+		c. System crashes 
+	5. Social engineering
+		a. Molds user into providing info
+		b. Phishing 
+	6. Weak passwords
+		a. Use a strong password policy
+	7. Cloud
+		a. Internet facing
+	8. On premise
+		a. Internal access
+	9. Admin privileges
+		a. One account with open access
+	10. Bugs
+		a. Code errors
+	11. Misconfiguration
+	12. Backdoor
+		a. Credentials 
+		b. Malware
+	
+	

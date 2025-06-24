@@ -1,0 +1,53 @@
+• Key sections to focus on: Pay special attention to the sections detailing firewalls, their types, functions, and roles in network security. These areas are fundamental to understanding network security infrastructure.
+
+From <https://cgp-oex.wgu.edu/xblock/block-v1:WGUx+OEX0083+v02+type@vertical+block@782faf28d00645418e8547c0ce9e5527?show_title=0&show_bookmark_button=0&recheck_access=1&view=student_view> 
+
+
+
+	1. A firewall controls the flow of traffic by preventing unauthorized traffic from entering or leaving a particular segment of the network
+	2. Separate private networks from the internet or from each other
+	3. Firewalls set up with a logic of rules
+	4. Flood Guards
+		a. Limit traffic from hosts
+		b. Reduce the risk of flooding the network
+	5. Loop protection
+		a. Terminate infinite loops
+	6. Network segmentation
+		a. Separation between networks
+		b. Keep traffic from moving from one network to another
+	7. Firewall types
+		a. Packet Filtering
+			i. Compares traffic with a set of rules that define which traffic can pass through
+			ii. No memory of past packets
+		b. Stateful inspection
+			i. Stores memory 
+			ii. Only needs to check rules when a new communication session starts rather than every time it receives a packet
+		c. Application Proxy
+			i. Doesn’t allow packets to travel between systems of opposite sides of the firewall
+			ii. Opens separate connections and acts as a broker (proxy) between the two transmissions. 
+	8. Firewall deployment techniques
+		a. Border Firewall
+			i. Separates network from the internet
+			ii. Behind a router
+			iii. Good for organizations that block all outside sources
+		b. Screened Subnet
+			i. Allows inbound connections on a limited basis
+				1) Companies with public websites 
+			ii. Most common today
+			iii. DMZ system
+		c. Multilayered 
+			i. Highly secure environments
+			ii. Useful when networks in an organization have different security levels
+		d. Stateless
+		e. Proxy server
+			i. Make a request to the firewall, then firewalls makes its own request to the internet
+			ii. Examines responses back for malware or other malicious attempts
+	9. Unified threat management
+		a. URL filters
+		b. Content inspection
+		c. Malware inspection
+	10. VPNs (virtual private networks)
+		a. Remote access
+		b. Allows for access to company resources across the public internet network
+		c. Increases security of data being transmitted across the public data network
+		d. Uses encryption

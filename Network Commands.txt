@@ -1,0 +1,59 @@
+	1. Ipconfig
+		a. Show IP addresses
+		b. Subnet mask
+		c. Default Gateway
+		d. Network Adapters
+		e. IPV6
+			i. Colon 128bit
+			ii. :: two colons represent four zeros
+		f. IPV4
+			i. Dot separator
+		g. Network adapters displayed
+	2. Ipconfig/all
+		a. Doesn't test, just displays information
+		b. Display MAC Address
+		c. Display all settings
+		d. More information
+		e. DNS suffix display
+		f. Dhcp settings
+		g. Physicall address
+		h. Host name
+		i. Etc..
+	3. Nslookup
+		a. Lookup records
+		b. Look up website IP address by entering web address
+		c. Test that DNS Server is working
+		d. Test and Query DNS
+	4. Set type=ptr
+		a. Lookup a name off an IP address
+		b. Know IP address
+			i. Query for the web name
+	5. Exit
+		a. Ends and exits most recent commands
+	6. Ping
+		a. Test if you can return a connection
+		b. Echos other networks
+		c. Gets reply from networks
+		
+	7. Netstat
+		a. Get network connections 
+		b. Active 
+		c. See what's listening
+		d. TCP 
+			i. 0.0.0.0
+			ii. Local machine
+			iii. 0.0.0.0.80
+				1) Port 80
+		e. UDP
+			i. Listening state
+	8. Tracert
+		a. Trace Route to host
+		b. Trace each router that a ping goes through
+		c. Report for each router than ing goes thru
+		d. IF imcp blocked by firewall, wont get a response
+	9. Arp -a
+		a. Address resolution protocol
+		b. Maps IP addresses to physical MAC addresses
+		
+		
+	

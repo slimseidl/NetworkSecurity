@@ -1,0 +1,94 @@
+	1. Cloud computing is delivery of services hosted on the internet
+		a. Apps
+		b. Databases
+		c. Files storage
+	2. Public cloud
+		a. Utility service
+		b. Usage on demand
+		c. Pay for
+		d. Owned and operated by CSP but available for public use
+		e. Ex:
+			i. Azure, Amazon Cloud
+	3. Private cloud
+		a. Regulation
+		b. Reduces scale and flexibility
+		c. More secure
+		d. Sole owner
+		e. Operated by the organization rather than the CSP
+	4. Community Cloud
+	5. Hybrid Cloud
+		a. Work in a private environment but share to public
+		b. Combination of private and public
+		c. Scalability
+		d. Reduced cost
+	6. Multi 
+		a. More than one cloud service sourced from multiple vendors
+		b. No on premise solutions
+		c. Cost factor
+		d. Backup service to reduce risk of outage
+	7. Business Benefits
+		a. Online resource management
+			i. Accessed anywhere anytime any device
+		b. Flexibility
+		c. Lower cost due to providers maintaining
+		d. Provides secure services
+		e. Unlimited possbility of resources
+		f. Agility
+		g. Scalability
+			i. To change
+		h. Redundancy
+			i. Recovery from disaster
+	8. Risks
+		a. Security and Privacy
+			i. Cloud provider offers ecruity resources
+		b. Where does the data reside?
+			i. Obstacle
+		c. Administrator account that has access to all
+			i. Security risk
+		d. Significant learning curves
+		e. Is provider compliant with regulations?
+		f. Poor access controls
+		g. Insecure APIs
+		h. Assess risks before a cloud migration
+		
+	A. Types of Cloud Services
+		a. Infrastructure as a Service (IaaS)
+			i. OG 
+			ii. Provision and launch any # of VMs that are newly install OS
+			iii. Focuses on facilities and infrastructure in the dat center
+			iv. Gives a foundation
+			v. Hardware and network is provided
+			vi. Organization just focuses on its' service
+			vii. Security
+				1) Multi tenant
+				2) Trusting the provider
+			viii. Good for rapid growth compannies
+		b. Platform as a Service (PaaS)
+			i. Includes infracstructure but allows for software development
+			ii. Need software to develop software
+				1) PaaS could start up within minutes due to no infrastrucure requirements
+			iii. Virtualization technology
+			iv. All developers could use the same studio
+			v. Supports app devekopment
+			vi. Development libraries
+			vii. Databases
+			viii. Web app services
+			ix. Provides a platform to start the above
+			x. MS Teams as an example
+		c. Software as a Service (SaaS)
+			i. Offers rent services to software applications
+			ii. SalesForce
+			iii. Just for using software, not creating it
+			iv. Zoom
+			v. Gmail
+			vi. Cloud based software and applications
+			vii. Accessible anywhere at any time
+			viii. Vendor hosted on remote service
+			ix. No deployments required for large companies 
+			
+		d. Anything else as a service (AaaS or XaaS)
+			i. Security, Privacy, Databases
+		
+		
+		
+		

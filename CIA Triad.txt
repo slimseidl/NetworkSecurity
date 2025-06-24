@@ -1,0 +1,70 @@
+	1. CIA Triad
+		a. Confidentiality
+			i. Combats unauthorized data access
+			ii. Information transmitted can only be read and understood by the recipient
+			iii. Encryption
+				1) Regulatory obligations 
+				2) Security standards
+			iv. Prevents unauthorized access
+				1) Privacy
+			v. Storage Encryption
+				1) Hard drives
+				2) Data
+			vi. Data at rest
+				1) Storage
+			vii. Roles
+				1) Assigning group permissions
+			viii. HTTPS instead of HTTP
+			ix. Apply patches to OS
+		b. Integrity
+			i. Checksums and Hashes
+			ii. Ensures data remains unaltered
+			iii. Info was not altered during the transmission
+			iv. Hashing techniques and digital signatures
+			v. Compare hash values
+			vi. Digital signatures
+				1) Verify signatures using keys
+			vii. Auditing
+				1) Trustworthy systems
+		c. Availability
+			i. Maintains access to systems
+			ii. Resource available to those who have authentication
+			iii. Firewalls
+			iv. Recovery plans
+			v. Business continuity plans
+			vi. RTO
+				1) Recovery time objective
+			vii. Load balancing
+				
+	2. AAA
+		a. Authentication
+			i. Identity of someone who access
+			ii. Usernames/passwords
+		b. Authorization
+			i. What resources are users allowed to access
+			ii. Permissions
+			iii. Access levels
+		c. Accounting
+			i. Logging activities
+			ii. Forensic analysis
+		
+	
+Approaches to cybersecurity
+	1. Compliance Based
+		a. Goes hand in hand with risk based
+		b. Standard based
+		c. Related to specific regulations or standards
+		d. Implements controls based on standard
+		e. Checklist based as well
+		f. Credit card example
+			i. PCI DSS guidelines
+	2. Risk based
+		a. Identify risks
+		b. Implement secuirty controls
+	3. Ad hoc
+		a. Security without rationale
+		b. Vendor or org driven
+		c. Whatever seems fit for environment
+		d. Firewalls, etc..
+		
+		

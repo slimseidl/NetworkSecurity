@@ -1,0 +1,197 @@
+	1. Attackers
+		a. Motive
+		b. Advanced persistent threat (APT)
+			i. Low profile
+			ii. Sophisticated equipment
+			iii. Get sensitive info
+		c. Cybercriminals
+			i. Sell sensitive info
+			ii. Ransomware
+			iii. Financial gain
+		d. Hacktivist
+			i. Social cause
+			ii. Ideology based
+			iii. Expose secrets
+			iv. Expose 
+			v. Wikileaks
+		e. Terrorist
+			i. Against government
+			ii. Severe damage to information systems
+			iii. Disruption 
+			iv. Large organizations and governments
+		f. Black Hat Hackers
+			i. Use software to expose vulnerabilities
+		g. White Hat
+			i. Authorized to perform penetration testing
+			ii. Fix the vulnerabilities
+		h. Gray hat
+			i. Average capability hackers that could become either white or black hatters
+	2. Insider Threats
+		a. Access to information internally
+		b. Revenge motive
+	3. Script kitties
+		a. Prove they can hack
+		b. Wannabe hackers
+			i. Learn on youtube 
+			ii. Little to no skill
+	4. Nation-state actors
+		a. Steal info
+		b. Sophisticated tools
+		c. Funded to cause espionage
+		d. Political based
+	5. Threat actors
+		a. External
+			i. Stealing confidential information
+			ii. Remote connectivity 
+				1) Security risk if no VPN is available
+		b. Internal
+			i. Insiders
+			ii. Different motive
+			iii. Downloading software that may contain malware or a trojan horse
+			iv. Auditing to mitigate
+	6. Threats
+		a. Exploitation
+			i. Information or applications
+		b. Can be accidental
+			i. Employee accidents
+		c. Hacking
+			i. Man made
+			ii. Stealing data
+			iii. DDOS
+		d. Deletion of Data
+			i. Accidental
+		e. Threat actors
+			i. People who initiate the threat
+		
+			
+	1. Attack Types
+		a. Malicious attempts to exploit
+		b. Damage or destroy infrastructure
+		c. Active
+			i. Direct attempts to penetrate
+				1) Stealing passwords
+			ii. More aggressive 
+			iii. Disrupt 
+			iv. Interruption
+				1) Ddos
+					a) Overwhelms a server with requests / data to try to get it to shut down
+			v. Modification
+				1) Integrity of data
+				2) Alter or destroy information
+				3) Man in the middle attack
+					a) Intercepting and altering data between two parties
+			vi. Fabrication
+				1) Authenticy of data
+					a) Cause harm
+				2) Spoofing
+					a) Attacker disguised as authorized sourcce to gain access to system
+			vii. Modify data 
+			
+		d. Passive
+			i. Monitor 
+			ii. Recon
+			iii. Stealing sensitive data
+			iv. Steal for financial gain
+			v. Mointor / intercept
+				1) [acket sniffing
+					a) Capture data as it comes across the network
+				2) Eavesdropping
+			vi. Can use sensitive data to start an active attack
+			vii. Phishing
+			viii. Idnetify vulnerabilities
+				1) Man in the middle
+		e. Modify contents
+		f. Birthday Attacks
+			i. Compromises a passowr dfile
+			ii. Brute forvce attack
+				1) Every possible passowrd combo using a program
+		g. Credential stuffing
+			i. Stealing login info
+		h. Dictionary password attack
+			i. Result of poor passwords from users
+			ii. Takes words from dictionary file to log on
+		i. IP Spoofing
+			i. Disguising as a person / program to gain access
+			ii. Address Resolution Protocol (ARP)
+				1) Spoofs the mac address
+		j. Hijacking
+			i. Takes control of session between two machines and masquereades as one of them
+				1) Ex:
+					a) Man in the middle
+						i) Pretends to be the other end of communication
+					b) Browser / URL
+						i) Typosquatting
+						ii) Direct to fake pages
+					c) Phishing
+		k. Relay Attacks
+			i. Captuing data packets from a network
+				1) Reproduces them for an effect
+		l. Eavesdropping
+			i. Recon
+		m. Social engineering
+			i. Tricking authorized users into carrying out actions for unauthorized users
+		n. Phreaking
+		o. Phishing
+			i. Malicious emails with links to harmful sites or softwares
+			ii. Internet scams 
+				1) CC info
+				2) Social security numbers
+				3) Etc..
+		p. Pharming
+			i. Poisons a domain name on the DNS 
+			ii. Navigates victims to attackers site rather than the one they thought they were going to
+			iii. Domain spoofing
+			iv. Hard to detect
+		q. Malware Attacks
+			i. Trying to get users to click on attachments to unleash a harmful program
+				1) Trojan Horse
+				2) Worms
+				3) Botnet
+				4) Rootkits
+				5) Ransomware
+					a) Extends application to backend database
+					b) Encrypts the data and demands ransom 
+					c) Cyber extortion
+					
+	2. Wireless Network Attacks
+		a. Packet Sniffing
+			i. Capturing packets off network
+		b. Bluesnarfing
+			i. Communications off bluetooth devices
+		c. Deauthentication
+			i. Wifi DOS attack
+		d. Evil twin
+			i. Fake wifi network that captures keystrokes
+			
+	3. Web Application attacks
+		a. Buffer overflow
+			i. Push more data than buffer can handle
+			ii. Compromise or crash system
+		b. SQL injection
+			i. Injecting sql language into search or other to obtain infor from back end SQL database
+		c. Zero Day
+			i. Exploiting a bug for which no defense exists yet
+	4. Malicious Software Attacks
+		a. Advanced persistent threat (APT)
+		b. Botnet
+			i. Remote controlled application
+				1) Multiple IP addresses with a DDOS attack
+		c. Rootkit
+			i. Allows hacker to gain control of linux host without being detected
+			ii. Hides in an OS
+			iii. Keep OS updated and patched
+		d. Spyware
+			i. Monitors the users system
+		e. Trojan Horse
+			i. Software disguised as something else
+			ii. Use firewall to mitigate
+		f. Worm
+			i. Software that replicates and copies itself to other devices via LAN or application servers that mutliple users access
+			ii. Use anti virus software to mitigate
+		g. Viruses
+			i. Attach itself to file or host
+			ii. Anti virus to mitigate
+		
+		
+		
+		

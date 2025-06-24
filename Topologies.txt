@@ -1,0 +1,43 @@
+Star is most common 
+
+	1. Wired Networks
+		a. Star
+			i. All devices connect back to a central location
+				1) To a switch
+			ii. Most common today
+			
+		b. Bus
+			i. Linear backbone that all devices connect to
+			ii. Has terminal at each end of the spine that terminates the signal so it doesn't reflect
+			iii. Hard to determine if there's an issuewhere its coming from
+			iv. Coaxial cable runs length of the organization
+				1) Access points
+			v. Only one device allowed to communicate at a time
+				1) Otherwise collision occurs
+		c. Ring
+			i. Devices connected in a series
+			ii. Has to pass through each device onto the next
+			iii. If one system goes down, it breaks the ring and all systems are down
+			iv. Token ring
+				1) Token is passed along the ring to allow communication
+					a) Eliminates collisions
+				
+		d. Mesh / Net
+			i. Redundancy
+			ii. All devices connected to each other
+			iii. No central switch
+			iv. Vbery complex and expensive
+			v. Mesh can be a good backup to a star
+		e. Point to Point
+			i. Direct link between two devices
+	2. Wireless Networks
+		a. Ad Hoc
+			i. LAN
+			ii. Devices connect to wireless device
+			iii. Wireless connects to internet
+			iv. Bypass router
+		b. Infrastructure Networks
+			i. Access Points
+				1) Uses different access points to extend and bounce between the same network
+		
+		

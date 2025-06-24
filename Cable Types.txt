@@ -1,0 +1,51 @@
+	1. Copper
+		a. Used for low medium and high speed transmissions and data networking
+		b. Most common in office buildings and wired network environments
+		c. Types of Copper lines
+			i. UTP
+				1) Unshielded twister pair
+			ii. STP
+				1) Shielded twisted pair
+		d. UTP used for voice and data comms
+	2. Coaxial
+		a. Rugged indoor/outdoor
+		b. Outside insulation
+		c. Support greater bandwidth using RF (radio frequency)
+		d. Types
+			i. RG-6
+				1) Home audio video and tv
+			ii. RG-58
+				1) RF transmissions
+				2) Cabling to radio
+			iii. RG-58/U
+				1) Ethernet
+			iv. RG-59/U
+				1) CCTV
+			v. RG-8U
+				1) Thicknet
+			vi. RG-60U
+				1) HD television and high speed modems
+	3. Glass / Fiber
+		a. Glass core surrounded by glass cladding
+		b. Light travels thru glass
+		c. Large amounts of data over large distances
+	4. Air transmission
+		a. Infrared
+		b. Satellite
+		c. RF
+	5. Bandwidth determines types of cables to use
+	
+	
+Comparison of Transmission Media:
+
+	A. UTP Bandwidth
+		a. 1MHZ
+	B. Coax
+		a. 1GHz
+	C. Microwave
+		a. 100 GHz
+	D. Satellite
+		a. 100 GHz
+	E. Fiber
+		a. 75 THz
+	

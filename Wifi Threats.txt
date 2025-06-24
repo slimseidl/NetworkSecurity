@@ -1,0 +1,24 @@
+	1. War Driving
+		a. Scanning for open wireless networks
+		b. Mitigation
+			i. Decrease range
+			ii. Hide SSID
+	2. War Chalking
+		a. Area marked where wireless credentials are know
+		b. Mitigate
+			i. Use stronger security like WPA2
+			ii. Mac filtering
+			iii. Disable SSID
+	3. Rogue Access Points
+		a. Access point accessed or installed on network without IT Team's knowledge
+		b. Evil Twin
+			i. Capturing credentials off rogue access point
+	4. DoS
+		a. Denial of Service
+		b. Precenting users from access network services
+		c. Flooding internet gateway or server 
+	5. Application Layer
+		a. Server overload
+	6. Transport Layer
+		a. DoS
+		

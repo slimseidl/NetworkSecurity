@@ -1,0 +1,103 @@
+	1. Protects Data
+		a. Scrambles so it's unreadable
+		b. At rest or in transit
+			i. At rest
+				1) Plain text
+			ii. In transit
+				1) Traveling across network
+	2. Encryption algorithms
+		a. Symmetric
+			i. Strongest
+			ii. Usae same key to encrypt and decipher data
+			iii. Weakness
+				1) Key distribution
+				2) Key security
+		b. Asymmetric
+			i. Two encryption keys
+				1) One encrypts other decrypts
+		c. Tunnels 
+	3. TLS encryption
+		a. Sending data out to internet
+		b. Provider certificates
+		c. Use their key
+	4. VPNs
+		a. Remote login
+		b. Gain access to corporate infrastructure
+	5. Disk encryption
+		a. Traditional file or disk
+		b. Cloud services
+	6. Certificate management
+		a. PKI/CA's
+		b. Certificate authorities to help manage
+	7. Key management
+		a. Store key safely
+		b. Different physical network
+			i. Cloud
+			ii. Local
+	8. Common Uses
+		a. Mobile apps
+			i. Convert plain text to cipher text
+			ii. Full Disk
+				1) Lock screen example
+					a) Password protected single key
+					b) Credentials must be entered
+					c) Impacts functionality
+					d) All functions not available on screen until credentials are entered
+			iii. File based
+				1) Lock Screen
+					a) Alarms and other features may be used on lock screen
+		b. iOS
+			i. Keychain
+			ii. Data Protection API
+				1) Only when device unlocked
+	9. 256 bits
+	10. MFA (multi factor)
+		a. Microsoft authenticate
+		
+			
+	1. Symmetric Encryption Overview
+		a. Same key used to cipher and decipher message
+		b. Relatively fast
+		c. A lot faster than asymmetric
+		d. Good for bulk encryption
+			i. Most efficient
+		e. Weaknesses
+			i. Key distribution
+				1) Getting the end user the key is difficult
+				2) Envelope it using asymmetric
+			ii. Generate keys on both sides
+				1) Combine both together
+				2) Hybrid cryptography
+		f. Examples
+			i. AES
+				1) Used widely
+				2) WPA2
+			ii. DES
+				1) Data encryption scheme
+			iii. IDEA
+			iv. RC4
+				1) WPA - wifi protected access
+			v. Blowfish
+			vi. Twofish
+		g. Don’t use a key more than once
+	2. Asymmetric
+		a. Public key crypto
+			i. Public and private keys
+		b. Formula based
+			i. Math formulas
+		c. Use algorithms from private key to develop public key
+		d. Key that locks is different from the key that locks it
+			i. Public unlocks private or vice versa
+		e. Much slower
+		f. Only good for small amounts of data
+		g. RSA algorithm
+			i. Key exchange tool
+			
+			
+		
+		
+		
+				
+		
+
+	

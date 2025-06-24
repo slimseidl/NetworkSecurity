@@ -1,0 +1,35 @@
+Layers of TCP / IP Model
+	4. Process Or Application Layer
+		a. SMTP, HTTP, File Transfer protocols
+		b. Communication protocols between layers
+		c. SSH
+		d. Dynamic host configuration (DHCP)
+		e. IMAP (internet message access)
+		f. FTP (file transfer)
+		g. Post office protocol
+		h. Encryption 
+	3. Host to Host or Transport Layer
+		a. Provides reliable transport to provide numbering of services thru port numbering
+		b. End to end transport of data
+		c. Protocols:
+			i. TCP
+			ii. UDP
+		d. Data arrives in same state as was sent
+		e. Missing data is retransmitted
+		f. Duplicate data is dropped
+		g. Network path problems are handled
+	2. Internet Layer / Networking
+		a. Logical addressing and routing, IP, ICMP
+		b. ARP protocol
+		c. Sends packets across networks
+		d. Makes routing decisions
+	3. Network Access or Link Layer
+		a. Network Access protocols
+		b. Hardware to provide networking
+		c. Ensure packets move between nodes in the same LAN
+		
+
+*Same networking concepts as OSI model, but groups together application, presentation and session into one layer under application
+*Only 4 Layers instead of 7
+DOD Model
+Darpa Model

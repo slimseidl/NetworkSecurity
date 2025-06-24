@@ -1,0 +1,54 @@
+Intrusion Detection System and Intrusion Prevention System
+Both available as virtual and hose based apps that can be config'd to run in tap mode, identifying malicious traffic when detected
+
+
+	1. Network Deployments
+		a. Network detection or prevention
+		b. NIDS or NIPS
+		c. Detection
+			i. Port scans
+			ii. Packet capturing
+	2. Host Based
+		a. HIDS / HIPS
+		b. Detection
+			i. Phishing
+			ii. Malware
+			iii. Software vulnerabilities
+			iv. Physical access
+	3. Active - IPS
+		a. Detects a possible threat
+			i. Notify admin
+			ii. Shut downs traffic altogether
+			iii. Can take steps to block threats
+				1) Block Ips
+			iv. Cables physically routed thru devices to create choke points and block threats
+	4. Passive - IDS
+		a. Notify admin
+		b. Traffic not shut down
+		c. Snort
+			i. Commands 
+			ii. Define own rules
+			iii. Generate alerts 
+	5. Compare network traffic to rules
+	6. Placement Issues
+		a. Can only see local network segment
+		b. DMZ
+			i. First line of warning on external attack
+	7. Solutions
+		a. Sensors collect traffic
+			i. Packet sniffer
+		b. Analyzer
+			i. Rules 
+			ii. Allows to build own rules
+		c. Manager
+			i. Manager interface
+			ii. Command line window
+			iii. GUI
+		d. Events
+			i. Anything IDS or IPS rules
+			ii. Requires analysis
+	8. Need a baseline to determine traffic
+	9. 
+		
+		
+		

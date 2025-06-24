@@ -1,0 +1,29 @@
+	1. Type 1 hypervisors (bare-metal)
+		a. Operate directly on hardware
+		b. Foundation layer for virtualization
+		c. Direct inerface with hardware
+		d. No need for underlying systems
+		e. Better performance for type 2
+		f. Enhanced stability
+		g. Commonly used on servers
+		h. No operating system beneath it
+	2. Type 2
+		a. App that runs in an operating system (OS)
+		b. Performance issues can affect
+		c. Useful for modest use
+		d. Extra layer between OS and machine
+	3. Security
+		a. Type 1 enhances security
+			i. Don’t install other software
+			ii. Secure
+		b. Network isolation
+			i. Minimizes unauthorized access
+			ii. Encryption
+		c. Virtual machine security
+			i. Regular updates for patches
+			ii. Minimize unneccessary software
+			iii. Firewalls
+			iv. Malwares
+			v. Back up regularly
+			vi. Monitor network resources
+	
